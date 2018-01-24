@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mytestproject"
+  id="myeclipse.1516581738583"
+  context-root="/gitopject"
+  j2ee-spec="5.0"
+  archive="mytestproject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
